@@ -1,0 +1,46 @@
+h1 {
+  color: blue;
+  font-size: 300px;
+  font-style: italic;
+  background-color: red;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  background-color: green;
+
+}
+
+li {
+  text-decoration: none;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border-color: red;
+  border-radius: 100px;
+  border-style: groove;
+  border-width: 8px;
+}
+
+h2, h3 {
+  background-color: yellow;
+}
+
+p {
+  color: white;
+  background-color: purple;
+  margin: 200px;
+}
+
+h1.fave {
+  color: orange;
+  font-family: fantasy;
+}
+
+ol.treats {
+  color: brown;
+  font-size: 60px;
+}
