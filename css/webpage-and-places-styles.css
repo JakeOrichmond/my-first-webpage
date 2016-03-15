@@ -1,0 +1,72 @@
+h1 {
+  color: blue;
+  font-size: 300px;
+  font-style: italic;
+  background-color: red;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  background-color: green;
+
+}
+
+li {
+  text-decoration: none;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border-color: red;
+  border-radius: 100px;
+  border-style: groove;
+  border-width: 8px;
+}
+
+h2, h3 {
+  background-color: yellow;
+}
+
+p {
+  color: white;
+  background-color: purple;
+  margin: 200px;
+}
+
+h1.fave {
+  color: orange;
+  font-family: fantasy;
+}
+
+ol.treats {
+  color: brown;
+  font-size: 60px;
+}
+
+h1 {
+  color: pink;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-style: oblique;
+  font-family: "Comic Sans MS", "Papyrus";
+  font-size: 70px;
+}
+
+img{
+  height: auto;
+  width: 400px;
+  border-radius: 100px;
+  border-color: yellow;
+  border-width: 20px;
+  border-style: ridge;
+}
+
+p{
+  font-size: 30px;
+  font-weight: 400;
+  color: red;
+  text-align: center;
+}
